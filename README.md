@@ -27,3 +27,4 @@ Please refer to the @link registry Theme Registry @endlink topic.
 [Drupal Bootstrap]: https://www.drupal.org/project/bootstrap
 [Bootstrap Framework]: https://getbootstrap.com/docs/3.3/
 [jsDelivr CDN]: http://www.jsdelivr.com
+"# mytheme" 
